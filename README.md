@@ -1,6 +1,6 @@
-👋 **Aloha! I'm Hunter L. Melton**
+👋 **Aloha! I'm Hunter**
 
-I build things with code and circuits. 
+I build things with code and circuits with a background in Economics.  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HLMelton&count_private=true&theme=radical&showicons=true)]()
 
