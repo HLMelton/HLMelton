@@ -1,12 +1,15 @@
-👋 **Aloha! I'm Hunter**
+<table style="display:hidden">
+    <tr>
+        <td style="width:50%">
+        <h3>Aloha, I'm Hunter</h3>
+            I'm a software developer with expertise in full-stack web, mobile and AR/VR development. I love building rigid web applications using some of the latest tech. my rule of thumb is execute and optimize for scale where possible without sacrificing the end user's experience.
+        </td>
+        <td>
+            <img src="./assets/typing.gif" height="auto" width="500px" />
+        </td>
+    </tr>
+</table>
 
-I build things with code and circuits with a background in Economics.  
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HLMelton&count_private=true&theme=radical&showicons=true)]()
-
-Feel free to take a look at my repos if you're interested in any of the projects. Thanks for taking a look. 
-
-You can also reach out to me directly at 
-- HunterLMelton@gmail.com
-
-
+I'm always open to collaborating on new projects or discussing new tech so feel free to connect with me: 
+- Email: [hunterlmelton@gmail.com](mailto:hunterlmelton@gmail.com)
+- Linkedin: [HunterLMelton](https://www.linkedin.com/in/hunterlmelton/)
