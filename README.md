@@ -13,3 +13,4 @@
 I'm always open to collaborating on new projects or discussing new tech so feel free to connect with me: 
 - Email: [hunterlmelton@gmail.com](mailto:hunterlmelton@gmail.com)
 - Linkedin: [HunterLMelton](https://www.linkedin.com/in/hunterlmelton/)
+- Discord: Reuben#0625
